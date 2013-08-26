@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Çevir",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Herhangi bir web sayfası dil çevirisi işlevsellik ekleyin.", 
+    "description":"The description of this extension"
+  }
+}

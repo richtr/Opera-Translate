@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Traducir",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Esta extensión engade a funcionalidade de tradución de idiomas para calquera páxina web.", 
+    "description":"The description of this extension"
+  }
+}

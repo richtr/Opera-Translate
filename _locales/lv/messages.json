@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Tulkot",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Pievieno valodas tulkošanas funkcionalitāti, lai jebkurā tīmekļa lapā.", 
+    "description":"The description of this extension"
+  }
+}

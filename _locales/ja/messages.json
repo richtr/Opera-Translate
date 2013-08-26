@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "翻訳",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "任意のページに言語翻訳機能を追加します。", 
+    "description":"The description of this extension"
+  }
+}

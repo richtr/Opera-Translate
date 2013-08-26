@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="oex_shim/operaextensions_popup.min.js"></script>
+        <meta charset="utf-8" />
+        <link href="/styles/options.css" rel="stylesheet" />
+        <title id="widget-title">Opera | Translate</title>
+        <script src="messages.js" type="text/javascript" charset="UTF-8"></script>
+        <script src="/scripts/nameMap.js" type="text/javascript" charset="UTF-8"></script>
+        <script src="/scripts/options.js" type="text/javascript" charset="UTF-8"></script>
+    </head>
+
+    <body>
+
+        <header>
+          <a href="options.html"><img src="/icons/64x64.png" /></a>
+          <h1 id="widget-name"><span class="_translate" id="titleMain"></span></h1>
+        </header>
+
+        <section class="txt_c">
+          <input class="_translate" id="clearPreferences" type="button" value="" />
+        </section>
+
+        <h3><span class="_translate" id="titleGeneral"></span></h3>
+        <section class="txt_c enableTranslation">
+          <span class="_translate" id="titleDefaultLang"></span>
+
+          <select id="homeLang"></select>
+
+        </section>
+
+        <section class="txt_c enableTranslation">
+          <span class="_translate" id="titleEnableAutoPrompt"></span>
+          <fieldset>
+
+            <input id="autoPromptOn" name="autoPrompt" type="radio" value="1" />
+            <label for="autoPromptOn"><span class="_translate" id="yes"></span></label>
+
+            <input id="autoPromptOff" name="autoPrompt" type="radio" value="0" />
+            <label for="autoPromptOff"><span class="_translate" id="no"></span> *</label>
+
+          </fieldset>
+          <div class="small" style="margin-top:10px; text-align: right;">
+            * <span class="_translate" id="manualTranslationNote"></span>
+          </div>
+        </section>
+
+        <section class="txt_c enableTranslation">
+          <span class="_translate" id="titleEnableAutoTranslation"></span>
+          <fieldset>
+
+            <input id="autoTranslateOn" name="autoTranslate" type="radio" value="1" />
+            <label for="autoTranslateOn"><span class="_translate" id="yes"></span></label>
+
+            <input id="autoTranslateOff" name="autoTranslate" type="radio" value="0" />
+            <label for="autoTranslateOff"><span class="_translate" id="no"></span></label>
+
+          </fieldset>
+        </section>
+
+        <section class="txt_c enableTranslation">
+          <span class="_translate" id="titleEnableSecureTranslation"></span>
+          <fieldset>
+
+            <input id="httpsOn" name="https" type="radio" value="1" />
+            <label for="httpsOn"><span class="_translate" id="yes"></span></label>
+
+            <input id="httpsOff" name="https" type="radio" value="0" />
+            <label for="httpsOff"><span class="_translate" id="no"></span></label>
+
+          </fieldset>
+        </section>
+
+        <h3><span class="_translate" id="titleLanguageSettings"></span></h3>
+        <section class="txt_c">
+          <input class="_translate" id="blanketPreferences" type="button" value="" />
+          <input class="_translate" id="blanketPreferencesOff" type="button" value="" />
+        </section>
+
+        <section id="optionsList"></section>
+
+        <footer>
+            <p>Copyright © MMXIII Rich Tibbett</p>
+            <p class="small">Spot a translation error? Think you could provide a better translation? <a href="http://twitter.com/richtibbett" target="_blank">Let me know</a>!</p>
+        </footer>
+
+    </body>
+
+</html>

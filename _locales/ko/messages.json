@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "번역",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "웹 페이지에 언어 번역 기능을 추가 할 수 있습니다.", 
+    "description":"The description of this extension"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "अनुवाद",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "किसी भी वेब पेज के लिए भाषा अनुवाद कार्यक्षमता जोड़ें.", 
+    "description":"The description of this extension"
+  }
+}

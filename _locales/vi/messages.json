@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Dịch",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Thêm chức năng dịch thuật cho bất kỳ trang web.", 
+    "description":"The description of this extension"
+  }
+}

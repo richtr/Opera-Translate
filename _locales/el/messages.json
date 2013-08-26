@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Μετάφραση",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Προσθήκη γλώσσα λειτουργικότητα μετάφραση σε οποιαδήποτε ιστοσελίδα.", 
+    "description":"The description of this extension"
+  }
+}

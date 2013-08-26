@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Перекласти",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Додати функціональності мови перекладу на будь-який веб-сторінці.", 
+    "description":"The description of this extension"
+  }
+}

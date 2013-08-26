@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Översätt",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Lägga till funktioner språköversättning till en webbsida.", 
+    "description":"The description of this extension"
+  }
+}

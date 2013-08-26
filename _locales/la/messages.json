@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Interpretabor",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Hoc tractus sermone versio functionality addit aliquid meaning.", 
+    "description":"The description of this extension"
+  }
+}

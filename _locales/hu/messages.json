@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Fordítás",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Kedvencek fordítása alkalmassága bármely weboldalra.", 
+    "description":"The description of this extension"
+  }
+}

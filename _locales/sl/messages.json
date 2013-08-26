@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Prevajalnik",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Dodajte funkcije jezika prevajanja na katerokoli spletno stran.", 
+    "description":"The description of this extension"
+  }
+}

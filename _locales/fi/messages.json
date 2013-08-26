@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Käännä",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Tämä laajennus lisää käännöksen toimintoja tahansa web-sivun.", 
+    "description":"The description of this extension"
+  }
+}

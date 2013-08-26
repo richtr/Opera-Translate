@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Vertalen",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Deze uitbreiding voegt vertaling functionaliteit aan een webpagina.", 
+    "description":"The description of this extension"
+  }
+}

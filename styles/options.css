@@ -1,0 +1,205 @@
+html {
+  background: #f2fcff;
+}
+
+html::after {
+  background: #f2fcff url('loader.gif') no-repeat 50% 50%;
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+}
+
+body {
+  display: none; /* overridden in options.js when all assets/translations are loaded */
+  font: 13px/24px 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+  color: #1e3853;
+  max-width: 600px;
+  background: #fff;
+  margin: 15px auto 55px;
+  padding: 0 50px;
+  border: 1px solid #b2eaf7;
+  position: relative;
+  z-index: 1;
+  border-radius: 10px;
+  overflow-x: hidden;
+}
+
+header {
+  text-align: center;
+  padding: 40px 50px 15px 50px;
+  margin: 0 50px;
+}
+
+section {
+  margin: 5px 0 25px;
+  padding: 15px 20px;
+  background: #bbeaf6;
+  border-bottom: 1px solid #3fbedd;
+  border-radius: 4px;
+}
+
+section::after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+
+footer {
+  text-align: center;
+  padding: 20px 50px;
+  margin: 50px 0 0;
+  color: #155a6b;
+  border-top: 1px solid #3fbedd;
+}
+
+footer p {
+  margin: 0;
+}
+
+h1 {
+  margin: 15px 0;
+  font-size: 24px;
+  color: #155a6b;
+  letter-spacing: -1px;
+}
+
+h2 {
+  margin-top: -3px;
+  font-weight: normal;
+  font-size: 16px;
+  color: #155a6b;
+}
+
+h3 {
+  margin: 5px 0 0;
+}
+
+fieldset {
+  border: none;
+  margin: 0;
+}
+
+a {
+  color: #2da7c5;
+}
+
+.enableTranslation.txt_c {
+  text-align:left;
+
+}
+
+.enableTranslation fieldset {
+  margin-left: 20px;
+  margin-top: 12px;
+  line-height: 0;
+  padding: 0;
+  display: inline-block;
+  float: right;
+}
+
+.enableTranslation select {
+  display: inline-block;
+  float: right;
+}
+
+fieldset label {
+  margin-left: 20px;
+}
+
+fieldset *:disabled {
+  opacity: 0.5;
+}
+
+select,
+input[type="button"] {
+  font: 12px/15px 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+  padding: 3px 10px;
+  background: linear-gradient(to bottom, #f8fafa, #beebf6);
+  border: 1px solid #248ba4;
+  color: #000;
+  text-shadow: 0 1px 0 #fff;
+  cursor: pointer;
+  box-shadow: 0 1px 0 #92dcf1;
+  border-radius: 5px;
+}
+
+select {
+  -webkit-appearance: button;
+  -webkit-padding-end: 20px;
+  -webkit-padding-start: 10px;
+  -webkit-user-select: none;
+  background-image: url(select-arrow.png), linear-gradient(to bottom, #f8fafa, #beebf6);
+  background-position: center right;
+  background-repeat: no-repeat;
+}
+
+select:hover,
+input[type="button"]:hover {
+  border-color: #000;
+}
+
+select:focus,
+input[type="button"]:focus {
+  outline: 0;
+}
+
+.txt_c {
+  text-align: center;
+}
+
+#optionList {
+  margin-top: 20px;
+}
+
+.optionlabel {
+  width: 180px;
+  display: inline-block;
+  padding-right: 10px;
+  text-align: right;
+  font-size:0.9em;
+}
+
+.optionnote {
+  width: 120px;
+  display: inline-block;
+  padding-right: 10px;
+  text-align: right;
+  font-size:11px;
+  color:blue;
+}
+
+.small {
+  font-size: 12px;
+  color: #666;
+}
+
+input[type='radio'] {
+  opacity: 0;
+  float: left;
+  width: 2px;
+  margin: 0;
+}
+
+input[type='radio'] + label {
+  margin: 0 10px 0 20px;
+  clear: none;
+  padding: 5px 30px 5px 0;
+  cursor: pointer;
+  background: url(radio_empty.png) no-repeat 95% 50%;
+}
+
+input[type='radio'] + label:hover {
+    background: url(radio_empty_h.png) no-repeat 95% 50%;
+}
+
+input[type='radio']:checked + label {
+    background: url(radio.png) no-repeat 95% 50%;
+}
+

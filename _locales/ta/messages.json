@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "மொழிபெயர்க்க",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "எந்த இணைய பக்கம் மொழியை மொழிபெயர்ப்பு செயல்பாடு சேர்க்க.", 
+    "description":"The description of this extension"
+  }
+}

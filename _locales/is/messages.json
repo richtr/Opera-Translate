@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Þýða",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Bæta túlkaþjónustu virkni til hvaða vefsíðu.", 
+    "description":"The description of this extension"
+  }
+}

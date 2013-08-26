@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Vertaal",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Hierdie uitbreiding voeg taal-vertaling funksie om 'n webblad.", 
+    "description":"The description of this extension"
+  }
+}

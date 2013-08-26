@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Tõlgi",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Lisa tõlkimine funktsionaalsust tahes veebilehel.", 
+    "description":"The description of this extension"
+  }
+}

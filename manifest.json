@@ -1,0 +1,25 @@
+{
+  "name": "__MSG_appName__",
+  "description": "__MSG_appDesc__",
+  "default_locale": "en",
+  "manifest_version": 2,
+  "version": "3.4.3",
+  "background": {
+    "page": "index.html"
+  },
+  "icons": {
+    "128": "icons/64x64.png"
+  },
+  "page_action": {
+    "default_title": "Translate this page",
+    "default_icon": "icons/19x19.png"
+  },
+  "options_page": "options.html",
+  "content_scripts": [{
+    "js": ["includes/000.operaextensions_injectedscript.min.js", "includes/pagetranslate.js"],
+    "matches": ["<all_urls>"],
+    "include_globs": ["*"],
+    "run_at": "document_start"
+  }],
+  "permissions": ["<all_urls>", "tabs"]
+}

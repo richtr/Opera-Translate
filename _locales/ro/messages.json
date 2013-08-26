@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Traduce",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Această extensie adaugă funcționalitate traduceri la orice pagină web.", 
+    "description":"The description of this extension"
+  }
+}

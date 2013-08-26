@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "અનુવાદ",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "આ એક્સટેંશન કોઈપણ વેબ પૃષ્ઠ પર ભાષા અનુવાદ વિધેય ઉમેરે છે.", 
+    "description":"The description of this extension"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Traduki",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Ĉi tiu etendo aldonas lingvo traduko funkciojn al ajna retpaĝo.", 
+    "description":"The description of this extension"
+  }
+}

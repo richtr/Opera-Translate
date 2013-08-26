@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Tərcümə",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Hər hansı bir web page tərcümə funksionallıq əlavə edin.", 
+    "description":"The description of this extension"
+  }
+}

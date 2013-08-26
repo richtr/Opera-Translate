@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Traduir",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Afegiu la funcionalitat de traducció d'idiomes a qualsevol pàgina web.", 
+    "description":"The description of this extension"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Kutafsiri",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Ugani hii anaongeza lugha ya tafsiri ya utendaji wa ukurasa wowote mtandao.", 
+    "description":"The description of this extension"
+  }
+}

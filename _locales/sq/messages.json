@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Përkthim",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Shton funksionalitetin përkthim gjuhës për ndonjë web faqe.", 
+    "description":"The description of this extension"
+  }
+}

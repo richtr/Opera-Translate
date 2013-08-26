@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "ប្រែសំរួល។",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "កន្ទុយបន្ថែមនេះគឺមានមុខងារបកប្រែភាសាទៅកាន់ទំព័របណ្ដាញណាមួយ។", 
+    "description":"The description of this extension"
+  }
+}

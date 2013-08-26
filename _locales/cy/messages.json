@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Cyfieithu",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Mae'r estyniad hwn yn ychwanegu ymarferoldeb cyfieithu i unrhyw dudalen ar y we.", 
+    "description":"The description of this extension"
+  }
+}

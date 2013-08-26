@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Translate",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "This extension adds language translation functionality to any web page.", 
+    "description":"The description of this extension"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "ترجم",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "إضافة الترجمة إلى اللغة وظيفة أي صفحة ويب.", 
+    "description":"The description of this extension"
+  }
+}

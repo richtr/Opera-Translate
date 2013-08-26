@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Menerjemahkan",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Menambahkan fungsi terjemahan bahasa untuk setiap halaman web.", 
+    "description":"The description of this extension"
+  }
+}

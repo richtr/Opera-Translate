@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Preložiť",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Pridať jazyk preklade funkcie na ľubovoľnú webovú stránku.", 
+    "description":"The description of this extension"
+  }
+}

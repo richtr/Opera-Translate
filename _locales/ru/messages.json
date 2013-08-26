@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Перевести",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Это расширение добавляет функциональность перевода на любой веб-странице.", 
+    "description":"The description of this extension"
+  }
+}

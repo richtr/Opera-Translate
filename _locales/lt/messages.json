@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Versti",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Šis išplėtimas priduria kalbos vertimo funkcionalumą bet kurį tinklalapį.", 
+    "description":"The description of this extension"
+  }
+}

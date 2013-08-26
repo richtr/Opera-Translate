@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "ترجمہ کریں",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "زبان ترجمہ کی فعالیت کو کسی بھی ویب کے صفحے پر شامل کریں.", 
+    "description":"The description of this extension"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Перавесці",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Дадаць функцыянальнасці мовы перакладу на любы вэб-старонцы.", 
+    "description":"The description of this extension"
+  }
+}

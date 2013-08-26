@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Itzultzeko",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Luzapen hau itzulpen funtzionalitatea gehitzen web orrian edozein.", 
+    "description":"The description of this extension"
+  }
+}

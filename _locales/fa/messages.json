@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "ترجمه",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "این فرمت می افزاید: قابلیت ترجمه زبان به هر صفحه وب", 
+    "description":"The description of this extension"
+  }
+}

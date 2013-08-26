@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Traduci",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Aggiungi funzionalità di traduzione lingua a qualsiasi pagina web.", 
+    "description":"The description of this extension"
+  }
+}

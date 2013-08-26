@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "翻譯",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "語言翻譯功能添加到任何網頁", 
+    "description":"The description of this extension"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "অনুবাদ",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "যেকোন ওয়েব পাতা যাও ভাষা অনুবাদ কার্যকারিতা যোগ করুন.", 
+    "description":"The description of this extension"
+  }
+}

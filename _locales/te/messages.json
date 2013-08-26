@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "అనువాదం",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "ఏదైనా వెబ్ పేజీకి భాష అనువాదం కార్యాచరణ జోడించండి.", 
+    "description":"The description of this extension"
+  }
+}

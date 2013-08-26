@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Oversæt",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Tilføj sprog oversættelse funktionalitet til enhver webside.", 
+    "description":"The description of this extension"
+  }
+}

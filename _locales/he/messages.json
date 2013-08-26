@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "תרגום",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "הרחבה זו מוסיפה פונקציונלי תרגום שפות לכל דף אינטרנט.", 
+    "description":"The description of this extension"
+  }
+}

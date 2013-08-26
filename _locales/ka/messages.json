@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "თარგმნა",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "სანიშნეს ენის თარგმანი ფუნქციებს ნებისმიერ ვებ გვერდზე.", 
+    "description":"The description of this extension"
+  }
+}

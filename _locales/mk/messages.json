@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Преведете",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Додади превод функционалност на било кој веб-страница.", 
+    "description":"The description of this extension"
+  }
+}

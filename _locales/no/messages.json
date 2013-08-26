@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Oversette",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Denne utvidelsen gir språkoversetting funksjonaliteten til en nettside.", 
+    "description":"The description of this extension"
+  }
+}

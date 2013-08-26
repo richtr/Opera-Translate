@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Übersetzen",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Sprache hinzufügen Übersetzungs-Funktionalität zu einem beliebigen Web-Seite.", 
+    "description":"The description of this extension"
+  }
+}

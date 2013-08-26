@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "թարգմանել",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Ավելացնում լեզուն թարգմանություն ֆունկցիոնալությունը ցանկացած վեբ էջը.", 
+    "description":"The description of this extension"
+  }
+}

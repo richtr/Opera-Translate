@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Tłumacz",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Dodaj funkcję tłumaczenia na dowolnej stronie internetowej.", 
+    "description":"The description of this extension"
+  }
+}

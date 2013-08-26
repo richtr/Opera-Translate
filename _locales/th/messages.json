@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "การแปล",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "เพิ่มฟังก์ชันการทำงานแปลภาษาถึงหน้าเว็บใด ๆ", 
+    "description":"The description of this extension"
+  }
+}

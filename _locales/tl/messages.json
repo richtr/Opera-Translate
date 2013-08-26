@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Pagsasalin",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Magdagdag ng wika pagsasalin-andar sa anumang web page.", 
+    "description":"The description of this extension"
+  }
+}

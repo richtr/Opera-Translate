@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Paghubad",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Kini nga extension midugang pinulongan sa paghubad kagamitan, katuyoan ngadto sa bisan unsa nga web page.", 
+    "description":"The description of this extension"
+  }
+}

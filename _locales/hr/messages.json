@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Prijevod",
+    "description": "The title of this extension"
+  },
+  "appDesc": {
+    "message": "Dodaj funkcionalnost jezik za prijevod na bilo koju web stranicu.", 
+    "description":"The description of this extension"
+  }
+}

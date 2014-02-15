@@ -49,7 +49,7 @@ opera.isReady(function() {
 //  "kk": "Kazakh", // not supported in Google Translate
     "km": "Khmer - ភាសាខ្មែរ",
 //  "tlh": "Klingon", // not supported in Google Translate
-    "ko": "Korean - 조선말",
+    "ko": "Korean - 한국어",
 //  "ku": "Kurdish", // not supported in Google Translate
 //  "ky": "Kyrgyz", // not supported in Google Translate
 //  "lo": "Lao", // not supported in guessLanguage.js

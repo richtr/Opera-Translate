@@ -16,15 +16,15 @@ var messages = window["messages"] = {
     },
     'titleEnableAutoPrompt': {
         defaultText: 'Automatically prompt on translatable web pages',
-        localText: 'Automatycznie zapyta o przetłumaczenie stron internetowych'
+        localText: 'Automatycznie zapytaj o przetłumaczenie strony internetowej'
       },
       'titleEnableAutoTranslation': {
         defaultText: 'Automatically translate web pages after prompting',
-        localText: 'Automatyczne tłumaczenia stron internetowych po zapytaniu'
+        localText: 'Automatyczne tłumaczenie stron internetowych w momencie ich odwiedzenia'
       },
       'manualTranslationNote': {
         defaultText: 'Selecting "No" adds a clickable manual button to your browser for translatable web pages',
-        localText: 'Wybranie "Nie" dodaje klikalny przycisk do przeglądarki do tłumaczenia stron internetowych'
+        localText: 'Wybranie "Nie" dodaje do przeglądarki przycisk, dla stron możliwych do przetłumaczenia'
       },
       'titleEnableSecureTranslation': {
       defaultText: 'Enable translation on secure pages',
@@ -32,7 +32,7 @@ var messages = window["messages"] = {
     },
     'titleLanguageSettings': {
       defaultText: 'Change your settings per language',
-      localText: 'Zmień ustawienia językowe'
+      localText: 'Zmień ustawienia dla poszczególnych języków'
     },
     'clearPreferences': {
       defaultText: 'Reset all translation preferences',

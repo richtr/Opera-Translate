@@ -1,6 +1,6 @@
 opera.isReady(function() {
   (function(window, undefined) {
-    
+
     if (window.location !== window.parent.location) {
       return;
     }
@@ -80,7 +80,6 @@ opera.isReady(function() {
           break;
         }
       }
-      iterator.detach();
       return analysisText;
     }
 
@@ -161,7 +160,7 @@ opera.isReady(function() {
       }
     }, false);
 
-    window.addEventListener('DOMContentLoaded', function() {
+    document.addEventListener('DOMContentLoaded', function() {
       if(window.location.hostname === "translate.google.com") return;
       if (!isValidContentType()) return;
       var rootTranslateNode = getRootNode();
@@ -180,4 +179,5 @@ opera.isReady(function() {
     }, false);
 
   }(window));
+
 });

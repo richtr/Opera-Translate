@@ -4,11 +4,11 @@ var messages = window["messages"] = {
   'strings': {
     'titleMain': {
       defaultText: 'Translate',
-      localText: 'Преведи'
+      localText: 'Translate'
     },
     'titleDefaultLang': {
         defaultText: 'Default Language',
-        localText: 'Поставке за језик'
+        localText: 'Подразумевани језик'
       },
       'titleGeneral': {
       defaultText: 'General Settings',
@@ -16,19 +16,19 @@ var messages = window["messages"] = {
     },
     'titleEnableAutoPrompt': {
         defaultText: 'Automatically prompt on translatable web pages',
-        localText: 'Аутоматски питати преводив на веб страницама'
+        localText: 'Аутоматски предложи на преводивим веб страницама'
       },
       'titleEnableAutoTranslation': {
         defaultText: 'Automatically translate web pages after prompting',
-        localText: 'Аутоматски преведи веб странице након што је изазвало'
+        localText: 'Аутоматски преведи веб странице након предлога'
       },
       'manualTranslationNote': {
         defaultText: 'Selecting "No" adds a clickable manual button to your browser for translatable web pages',
-        localText: 'Избор "Не", додаје се кликне на дугме за коришћење у вашем претраживачу преводив веб странице'
+        localText: 'Избором "Не" додаје се дугме у адресној траци код преводивих веб страница'
       },
       'titleEnableSecureTranslation': {
       defaultText: 'Enable translation on secure pages',
-      localText: 'Омогућите превод на безбедним странама'
+      localText: 'Омогући превод на безбедним страницама'
     },
     'titleLanguageSettings': {
       defaultText: 'Change your settings per language',
@@ -36,23 +36,23 @@ var messages = window["messages"] = {
     },
     'clearPreferences': {
       defaultText: 'Reset all translation preferences',
-      localText: 'Ресетовање свих подешавања превода'
+      localText: 'Врати сва подешавања на подразумевано'
     },
     'blanketPreferences': {
       defaultText: 'Translate from all languages',
-      localText: 'Преводилац са свим језицима'
+      localText: 'Преведи са свих језика'
     },
     'blanketPreferencesOff': {
       defaultText: 'Never translate from any languages',
-      localText: 'Никада превести са било језика'
+      localText: 'Никада не преводи са било језика'
     },
     'translateAlwaysOption': {
       defaultText: 'Always translate from this language',
-      localText: 'Увек преводи од овог језика'
+      localText: 'Увек преведи са овог језика'
     },
     'translateNeverOption': {
       defaultText: 'Never translate from this language',
-      localText: 'Никада превести са овом језику'
+      localText: 'Никада не преводи са овог језика'
     },
     'yes': {
       defaultText: 'Yes',

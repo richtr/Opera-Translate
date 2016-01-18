@@ -44,7 +44,7 @@ var messages = window["messages"] = {
     },
     'blanketPreferencesOff': {
       defaultText: 'Never translate from any languages',
-      localText: 'Никада не преводи са било језика'
+      localText: 'Никада не преводи са других језика'
     },
     'translateAlwaysOption': {
       defaultText: 'Always translate from this language',

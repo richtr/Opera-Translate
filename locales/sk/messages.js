@@ -16,7 +16,7 @@ var messages = window["messages"] = {
     },
     'titleEnableAutoPrompt': {
         defaultText: 'Automatically prompt on translatable web pages',
-        localText: 'Automaticky vyzvať na preložiteľné webových stránkach'
+        localText: 'Automaticky vyzvať na preložiteľných webových stránkach'
       },
       'titleEnableAutoTranslation': {
         defaultText: 'Automatically translate web pages after prompting',
@@ -36,7 +36,7 @@ var messages = window["messages"] = {
     },
     'clearPreferences': {
       defaultText: 'Reset all translation preferences',
-      localText: 'Obnoviť všetky preklady preferencie'
+      localText: 'Obnoviť všetky preferencie prekladu'
     },
     'blanketPreferences': {
       defaultText: 'Translate from all languages',
@@ -44,7 +44,7 @@ var messages = window["messages"] = {
     },
     'blanketPreferencesOff': {
       defaultText: 'Never translate from any languages',
-      localText: 'Nikdy preložiť zo všetkých jazykov'
+      localText: 'Nikdy neprekladať z cudzích jazykov'
     },
     'translateAlwaysOption': {
       defaultText: 'Always translate from this language',
@@ -52,7 +52,7 @@ var messages = window["messages"] = {
     },
     'translateNeverOption': {
       defaultText: 'Never translate from this language',
-      localText: 'Nikdy preložiť z tohto jazyka'
+      localText: 'Nikdy neprekladať z tohto jazyka'
     },
     'yes': {
       defaultText: 'Yes',

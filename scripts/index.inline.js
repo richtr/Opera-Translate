@@ -1,6 +1,6 @@
 opera.isReady(function() {
   (function() {
-    var storage = widget.preferences;
+    var storage = widget.preferences._storage;
     var browserLang = window.navigator.language;
     var homeLang = storage.getItem( 'homeLang' ) ||
         ( NAME_MAP[ browserLang ] ? browserLang : 'en' );

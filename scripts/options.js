@@ -35,7 +35,7 @@ opera.isReady(function() {
     }
   };
   window.addEventListener('DOMContentLoaded', function() {
-    var storage = widget.preferences;
+    var storage = widget.preferences._storage;
 
     function optionChanged(e) {
       var element = e.currentTarget;
